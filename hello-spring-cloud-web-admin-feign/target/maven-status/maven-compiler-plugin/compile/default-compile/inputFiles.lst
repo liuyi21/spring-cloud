@@ -1,5 +1,0 @@
-E:\IDEAworkplace\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\liuyi\hello\spring\cloud\web\admin\feign\controller\AdminController.java
-E:\IDEAworkplace\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\liuyi\hello\spring\cloud\web\admin\feign\config\HystrixDashboardConfiguration.java
-E:\IDEAworkplace\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\liuyi\hello\spring\cloud\web\admin\feign\WebAdminFeignApplication.java
-E:\IDEAworkplace\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\liuyi\hello\spring\cloud\web\admin\feign\service\AdminService.java
-E:\IDEAworkplace\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\liuyi\hello\spring\cloud\web\admin\feign\service\hystrix\AdminServiceHystrix.java
